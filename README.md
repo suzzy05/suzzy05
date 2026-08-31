@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Shilpi Shaw<br>🎓 2nd Year Computer Science Student | 💻 Developer | 🌱 Learning AI & Web Dev<br>
+ Hi, I'm Shilpi Shaw<br>🎓 3rd Year Computer Science Student | 💻 Developer | 🌱 Learning AI & Web Dev<br>
 
 
 ## 🌐 Socials:
